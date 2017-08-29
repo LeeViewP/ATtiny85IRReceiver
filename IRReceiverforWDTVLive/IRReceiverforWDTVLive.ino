@@ -4,7 +4,7 @@
 * 
 * 
 * Microcontroller: ATtiny85
-* Dev board:       Digispark
+* Dev board:       Digispark 
 * 
 *************************************/
 
