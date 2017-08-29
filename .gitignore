@@ -3,22 +3,14 @@
 libraries/*
 
 # Except for the IrReceiver directories:
-!**/IRReceiverforWDTVLive/**
+!**/IRReceiverforWDTVLive
 !**/IRReceiverforWDTVLive/**
 !**/IRReceiverRead
 !**/IRReceiverRead/**
 
 #Include needed libraries
-#!libraries/**
-#!libraries/TrinketHidCombo/**
-
+!libraries/
+!libraries/**/TrinketHidCombo/**/
 
 !.gitignore
-!libraries/
-#!libraries/**/
-!**/libraries/**/TrinketHidCombo/
-!libraries/**/TrinketHidCombo/**/
-#!libraries/*/TrinketHidCombo/*/*
-#!libraries/*/TrinketHidCombo/*/*/*
-#!libraries/*/TrinketHidCombo/*/*/*/*
-#!libraries/*/TrinketHidCombo/*/*/*/*/*
+
