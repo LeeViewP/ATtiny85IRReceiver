@@ -1,5 +1,6 @@
 
 # Ignore everything:
+*
 libraries/*
 
 # Except for the IrReceiver directories:
