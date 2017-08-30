@@ -1,7 +1,6 @@
 # ATtiny85IRReceiver
 
-Create a Infrared Usb receiver from an IR sensor and ATtiny85<br/>
-check the [instructable](http://www.instructables.com/id/DIY-USB-IR-receiver/) for more information
+Create a Infrared Usb receiver from an IR sensor and ATtiny85 check this [instructable](http://www.instructables.com/id/DIY-USB-IR-receiver/) for more information on build.
 <br/>
 
 ### Hardware:
@@ -17,6 +16,6 @@ Upload IrReceiverRead.ino to your digispark and read and save the remote keycode
 Add your readed keycodes to defined remote control keys to IRReceiverforWDTVLive.ino.<br/>
 Upload IRReceiverforWDTVLive.ino to your digispark and connect it to the computer and you are done 
 
-### Note 
+#### Note 
 The values defined in IRReceiverforWDTVLive.ino is for Western Digital WD TV Live Remote.<br/>
 Let the digispark sit for 30 seconds before using the remote. It has to do with the digispark bootloader.<br/>
